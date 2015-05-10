@@ -1,3 +1,3 @@
 # liteide_env
-Environment settings for Goland [LiteIDE](https://github.com/visualfc/liteide) development environment. 
+Environment settings for Golang [LiteIDE](https://github.com/visualfc/liteide) development environment. 
 At least it works for me...
